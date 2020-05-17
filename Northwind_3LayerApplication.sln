@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind_3LayerApplication", "Northwind_3LayerApplication\Northwind_3LayerApplication.csproj", "{6FA277CD-25AB-4D21-A27C-A12366F099AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersData", "OrdersData\OrdersData.csproj", "{AC1BB63A-65EF-41C2-9E18-B1B57D2D0374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA277CD-25AB-4D21-A27C-A12366F099AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA277CD-25AB-4D21-A27C-A12366F099AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA277CD-25AB-4D21-A27C-A12366F099AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA277CD-25AB-4D21-A27C-A12366F099AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1BB63A-65EF-41C2-9E18-B1B57D2D0374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1BB63A-65EF-41C2-9E18-B1B57D2D0374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1BB63A-65EF-41C2-9E18-B1B57D2D0374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1BB63A-65EF-41C2-9E18-B1B57D2D0374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C9B4CC-23D1-486E-9A14-431665824C66}
+	EndGlobalSection
+EndGlobal
